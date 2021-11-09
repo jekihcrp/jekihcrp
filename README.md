@@ -36,7 +36,7 @@ Gamer. Hockey fanatic. Has a Gmail account.
 
 ### Connect with me:
 
-[<img align="left" alt="jeki" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/steam.svg" />][steam]
-[<img align="left" alt="jekiy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="jeki" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/steam.svg" />][website]
+[<img align="left" alt="jekiy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][website]
 
 <br />
