@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://discordapp.com/users/190490660455972864" target="blank_">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-jeki%230101-3b0000?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20?color=000'">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-jeki%230101-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
     <a href="https://discord.gg/hellcityrp" target="blank_">
-        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=3b0000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
+        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=3b0000&label=HELLCITY&logo=discord&logoColor=000&style=for-the-badge" />
    </a>
 </p>
  
