@@ -23,5 +23,11 @@ Here are some ideas to get you started:
     <a href="https://discord.gg/hellcityrp" target="blank_">
         <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
    </a>
+</p>
+ 
+<div align="center">
     <img width="200" height="30" src="https://komarev.com/ghpvc/?username=jekihcrp&style=flat-square&color=3b0000" alt="jekihcrp" />
 </div>
+
+<hr />
+<div aling="center">
