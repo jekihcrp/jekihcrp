@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 <hr />
 <div aling="center">
+    
+### Connect with me:
+
+[<img align="left" alt="190490660455972864" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
