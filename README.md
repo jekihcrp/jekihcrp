@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ohuQaZy](https://user-images.githubusercontent.com/69464963/140838611-724fd21b-1639-4693-a4d9-60d80bdc5627.png)
+
+<p align="center">
+    <a href="https://discordapp.com/users/190490660455972864" target="blank_">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-jeki%230101-3b0000?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20?color=000'">
+    </a>
+    <a href="https://discord.gg/hellcityrp" target="blank_">
+        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
+   </a>  
+</p>
+
 ![](https://komarev.com/ghpvc/?username=jekihcrp&color=3b0000&label=PROFILE+VIEWS)
 
