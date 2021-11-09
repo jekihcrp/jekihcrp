@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:flag_fi:  Gamer. Hockey fanatic. Has a Gmail account.
+Gamer. Hockey fanatic. Has a Gmail account.
 
 ![ohuQaZy](https://user-images.githubusercontent.com/69464963/140838611-724fd21b-1639-4693-a4d9-60d80bdc5627.png)
 
