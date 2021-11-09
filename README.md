@@ -33,10 +33,3 @@ Gamer. Hockey fanatic. Has a Gmail account.
 
 <hr />
 <div aling="center">
-
-### Connect with me:
-
-[<img align="left" alt="jeki" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="jekiy | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][website]
-
-<br />
