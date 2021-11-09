@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is Jeki
+![](https://cdn.discordapp.com/attachments/906620977809612850/906634755511033916/ohuQaZy.png)
+
 Gamer. Hockey fanatic. Has a Gmail account.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/190490660455972864)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/jekiy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/jekiy)  
+
+
 
 ![ohuQaZy](https://user-images.githubusercontent.com/69464963/140838611-724fd21b-1639-4693-a4d9-60d80bdc5627.png)
 
