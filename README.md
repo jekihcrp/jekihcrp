@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://cdn.discordapp.com/attachments/906620977809612850/906634755511033916/ohuQaZy.png)
-
 Gamer. Hockey fanatic. Has a Gmail account.
 
 ![ohuQaZy](https://user-images.githubusercontent.com/69464963/140838611-724fd21b-1639-4693-a4d9-60d80bdc5627.png)
