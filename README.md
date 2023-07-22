@@ -19,7 +19,7 @@ Gamer. Hockey fanatic. Has a Gmail account.
 
 <p align="center">
     <a href="https://discordapp.com/users/190490660455972864" target="blank_">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-jeki%230101-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-jeki-3b0000?style=for-the-badge&logo=discord&logoColor=000&logoWidth=20?color=000'">
     </a>
 </p>
  
